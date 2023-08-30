@@ -1,3 +1,0 @@
-d05d0b9cadfeefa101af43a9b923739d
-
-https://api.openweathermap.org/data/2.5/weather?q={city name}&appid=d05d0b9cadfeefa101af43a9b923739d
